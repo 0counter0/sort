@@ -33,6 +33,8 @@ public class Quick {
         }
         nums[i]=part;//ij这个时候相遇了，基准就应该放在这里
         return i;//返回基准的位置
+        //This is a change
+
     }
 
     public static void loop(int nums[], int l, int r){
